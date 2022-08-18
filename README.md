@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luiz Ricardo
 
-### Atualmente estudando Ciencia de Dados
+#### :ghost: Estudando Ciencia de Dados
 
 <div align="center">
   <a href="https://github.com/RickLuiz">
