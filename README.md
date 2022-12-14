@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luiz Ricardo
 
-#### :ghost:Atualmente estou estudando Ciência de Dados
+#### :ghost: Front-End Developer e Data Scientist.
 
 <div align="center">
   <a href="https://github.com/rickluizms">
