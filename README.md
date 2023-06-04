@@ -16,6 +16,8 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rickluizms&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://github.com/rickluizms/rickluizms/blob/master/metrics.svg)
+
   
 
   
