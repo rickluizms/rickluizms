@@ -14,7 +14,7 @@
 ![](https://komarev.com/ghpvc/?username=rickluizms&color=dc143c)
 ---
 
-[![Luiz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rickluizms&layout=compact)](https://github.com/rickluizms/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rickluizms&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
