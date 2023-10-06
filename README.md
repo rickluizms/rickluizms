@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Ricardo!
+#Olá, eu sou o Luiz Ricardo!
 
 ## Conecte-se comigo
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/rickluizms/)
