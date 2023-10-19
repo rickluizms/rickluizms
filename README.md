@@ -1,6 +1,5 @@
 # Olá, eu sou o Luiz Ricardo!
 
-## Conecte-se comigo
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4w68utime0mqjucmkpp4so7wu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/rickluizms/)
@@ -11,7 +10,6 @@
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ## GitHub Stats
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickluizms&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rickluizms&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
