@@ -2,7 +2,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4w68utime0mqjucmkpp4so7wu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/rickluizms/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rickluizms/)
 
 ## Habilidades
