@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Ricardo!
+### Olá, eu sou o Luiz Ricardo!
 
 **Sou um cientista de dados, apaixonado por tecnologia, musica e games.**
 
