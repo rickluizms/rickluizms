@@ -1,6 +1,6 @@
 # Olá, eu sou o Luiz Ricardo!
 
-### Sou um cientista de dados, apaixonado por tecnologia e musica e games.
+**Sou um cientista de dados, apaixonado por tecnologia, musica e games.**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4w68utime0mqjucmkpp4so7wu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
