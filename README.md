@@ -1,6 +1,6 @@
 ## Olá, eu sou o Luiz Ricardo!
 
-**Sou um cientista de dados, apaixonado por tecnologia, musica e games.**
+**Sou um desenvolvedor Python especializado em analise de dados.**
 
 
 ## GitHub Stats
