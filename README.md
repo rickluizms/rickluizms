@@ -1,18 +1,28 @@
-## Olá, eu sou o Luiz Ricardo!
+### Olá, sou o Luiz!
 
-**Sou um desenvolvedor Python especializado em analise de dados.**
+Data Engineer • Web Scraping • ETL Pipelines
 
+---
 
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rickluizms&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+Construo pipelines robustos, automatizações escaláveis e sistemas orientados a dados.
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rickluizms&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=Ezhil,CLASS,GDScript3,ActionScript,GDScript,Other,Properties,Text,INI,TSQL,Bash,Assembly,Batchfile,Objective-C,ActionScript-3,Groovy,Prolog,Kotlin,)](https://github.com/anuraghazra/github-readme-stats)
+Foco em:
+- Web Scraping em larga escala
+- Processamento distribuído
+- Arquitetura de dados
+- Integração de APIs
+- Engenharia de backend aplicada a dados
 
+---
 
+## Stack
 
+Python • SQL • Spark • Kafka • Airflow • Docker • MongoDB • Django • REST • Linux
 
+---
 
+## Contato
 
-  
-
-  
+LinkedIn: linkedin.com/in/rickluizms  
+GitHub: github.com/rickluizms  
+Email: rickluizms@gmail.com
