@@ -11,13 +11,13 @@ Foco em:
 - Processamento distribuído
 - Arquitetura de dados
 - Integração de APIs
-- Engenharia de backend aplicada a dados
+- Backend orientado a dados
 
 ---
 
 ## Stack
 
-Python • SQL • Spark • Kafka • Airflow • Docker • MongoDB • Django • REST • Linux
+Python • Java • SQL • Spark • Kafka • RabbitMQ • Airflow • Docker • MongoDB • Postgres • FastAPI • Django • Linux
 
 ---
 
