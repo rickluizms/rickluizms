@@ -1,27 +1,14 @@
-### Olá, sou o Luiz!
+## Olá, eu sou o Luiz!
 
-Data Engineer • Web Scraping • ETL Pipelines
+Sou **desenvolvedor especializado em engenharia de dados e automações**. Trabalho com grandes volumes de dados e ajudo empresas a **automatizar processos**, especialmente no **setor comercial**, utilizando **Inteligência Artificial**.
 
----
+Transformo dados complexos em **pipelines eficientes** e integro sistemas via **APIs** ou **Web Scraping**. Meu objetivo é construir soluções que **facilitam o dia a dia das equipes** e tornam processos mais inteligentes.
 
-Construo pipelines robustos, automatizações escaláveis e sistemas orientados a dados.
+### Skills principais
 
-Foco em:
-- Web Scraping em larga escala
-- Processamento distribuído
-- Arquitetura de dados
-- Integração de APIs
-- Backend orientado a dados
+Python • SQL • Spark • Kafka • Airflow • Docker • MongoDB • Postgres • FastAPI • Django • N8N • RAG
 
----
+### Contato
 
-## Stack
-
-Python • Java • SQL • Spark • Kafka • RabbitMQ • Airflow • Docker • MongoDB • Postgres • FastAPI • Django • Linux
-
----
-
-## Contato
-
-LinkedIn: linkedin.com/in/rickluizms  
-Email: rickluizms@gmail.com
+LinkedIn: [linkedin.com/in/rickluizms](https://linkedin.com/in/rickluizms)
+Email: [rickluizms@gmail.com](mailto:rickluizms@gmail.com)
