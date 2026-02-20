@@ -11,4 +11,5 @@ Python • SQL • Spark • Kafka • Airflow • Docker • MongoDB • Postgr
 ### Contato
 
 LinkedIn: [linkedin.com/in/rickluizms](https://linkedin.com/in/rickluizms)
+
 Email: [rickluizms@gmail.com](mailto:rickluizms@gmail.com)
