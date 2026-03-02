@@ -9,7 +9,7 @@ Construo pipelines, integro sistemas e transformo processos manuais em fluxos au
 
 Stack
 
-Python • SQL • Spark • Kafka • Airflow • Docker
+`Python` • SQL • Spark • Kafka • Airflow • Docker
 MongoDB • PostgreSQL • FastAPI • Django • N8N • RAG
 
 
@@ -18,5 +18,7 @@ MongoDB • PostgreSQL • FastAPI • Django • N8N • RAG
 Contato
 
 LinkedIn: https://linkedin.com/in/rickluizms
-Website: https://rickluizms.site/
+
+Website: https://rickluizms.site
+
 Email: rickluizms@gmail.com
