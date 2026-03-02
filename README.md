@@ -1,15 +1,22 @@
-## Olá, eu sou o Luiz!
+Olá, eu sou o Luiz!
 
-Sou **desenvolvedor especializado em engenharia de dados e automações**. Trabalho com grandes volumes de dados e ajudo empresas a **automatizar processos**, especialmente no **setor comercial**, utilizando **Inteligência Artificial**.
+Engenheiro de Dados focado em automação e IA aplicada ao setor comercial.
 
-Transformo dados complexos em **pipelines eficientes** e integro sistemas via **APIs** ou **Web Scraping**. Meu objetivo é construir soluções que **facilitam o dia a dia das equipes** e tornam processos mais inteligentes.
+Construo pipelines, integro sistemas e transformo processos manuais em fluxos automatizados e escaláveis.
 
-### Skills principais
 
-Python • SQL • Spark • Kafka • Airflow • Docker • MongoDB • Postgres • FastAPI • Django • N8N • RAG
+---
 
-### Contato
+Stack
 
-LinkedIn: [linkedin.com/in/rickluizms](https://linkedin.com/in/rickluizms)
+Python • SQL • Spark • Kafka • Airflow • Docker
+MongoDB • PostgreSQL • FastAPI • Django • N8N • RAG
 
-Email: [rickluizms@gmail.com](mailto:rickluizms@gmail.com)
+
+---
+
+Contato
+
+LinkedIn: https://linkedin.com/in/rickluizms
+Website: https://rickluizms.site/
+Email: rickluizms@gmail.com
