@@ -12,5 +12,7 @@ Data Engineer focused on automation and AI/ML systems.
 **Contact**
 
 LinkedIn: [https://linkedin.com/in/rickluizms](https://linkedin.com/in/rickluizms)
+
 Portfolio: [https://rickluizms.site](https://rickluizms.site)
+
 Email: [rickluizms@gmail.com](mailto:rickluizms@gmail.com)
