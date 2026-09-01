@@ -17,8 +17,6 @@
 
 <img src="./terminal.svg" alt="Terminal">
 
----
-
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/rickluizms) • [Portfolio](https://rickluizms.site) • [Email](mailto:rickluizms@gmail.com)
