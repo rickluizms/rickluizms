@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=false&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Luiz;Eu+sou+Cientista+de+Dados;Eu+sou+Engenheiro+de+IA;Eu+sou+Desenvolvedor+Python)](https://git.io/typing-svg)
+Olá, 
+
+Eu sou [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python)](https://git.io/typing-svg)
 
 Data Engineer focused on automation and AI/ML systems.
 
