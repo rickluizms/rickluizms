@@ -38,7 +38,7 @@
   <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
   <circle cx="66" cy="22" r="6" fill="#27c93f"/>
 
-  <text x="425" y="27" text-anchor="middle" class="terminal muted" font-size="13">luiz@github: ~</text>
+  <text x="425" y="27" text-anchor="middle" class="terminal muted" font-size="13">rickluizms@github: ~</text>
 
   <!-- whoami -->
   <g clip-path="url(#clipCmd1)"><text x="30" y="80" class="terminal command" font-size="14">$ whoami</text></g>
