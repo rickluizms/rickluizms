@@ -1,55 +1,283 @@
-<svg width="700" height="280" viewBox="0 0 700 280"
+<svg width="850" height="430" viewBox="0 0 850 430"
      xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="700" height="280" rx="12" fill="#0d1117"/>
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
 
-  <!-- Barra superior -->
-  <rect width="700" height="42" rx="12" fill="#161b22"/>
-  <rect y="30" width="700" height="12" fill="#161b22"/>
+    <!-- Subtle glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-  <!-- Botões -->
-  <circle cx="20" cy="21" r="6" fill="#ff5f56"/>
-  <circle cx="42" cy="21" r="6" fill="#ffbd2e"/>
-  <circle cx="64" cy="21" r="6" fill="#27c93f"/>
+    <!-- Cursor animation -->
+    <style>
+      .terminal {
+        font-family: "SFMono-Regular", "Cascadia Code",
+                     "Roboto Mono", Consolas, monospace;
+      }
 
-  <!-- Título -->
-  <text x="350" y="26"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-family="monospace"
-        font-size="13">
-    terminal
+      .command {
+        fill: #58a6ff;
+        font-weight: 600;
+      }
+
+      .output {
+        fill: #f0f6fc;
+      }
+
+      .muted {
+        fill: #8b949e;
+      }
+
+      .green {
+        fill: #3fb950;
+      }
+
+      .cyan {
+        fill: #79c0ff;
+      }
+
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+
+      @keyframes blink {
+        50% {
+          opacity: 0;
+        }
+      }
+    </style>
+  </defs>
+
+
+  <!-- ========================= -->
+  <!-- TERMINAL WINDOW            -->
+  <!-- ========================= -->
+
+  <rect
+    x="0"
+    y="0"
+    width="850"
+    height="430"
+    rx="14"
+    fill="url(#bg)"
+    stroke="#30363d"
+    stroke-width="1"
+  />
+
+
+  <!-- ========================= -->
+  <!-- TITLE BAR                  -->
+  <!-- ========================= -->
+
+  <rect
+    x="0"
+    y="0"
+    width="850"
+    height="45"
+    rx="14"
+    fill="#161b22"
+  />
+
+  <!-- Fix bottom corners of title bar -->
+  <rect
+    x="0"
+    y="30"
+    width="850"
+    height="15"
+    fill="#161b22"
+  />
+
+  <!-- macOS/Linux buttons -->
+
+  <circle cx="22" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="22" r="6" fill="#27c93f"/>
+
+  <!-- Terminal title -->
+
+  <text
+    x="425"
+    y="27"
+    text-anchor="middle"
+    class="terminal muted"
+    font-size="13">
+    luiz@github: ~
   </text>
 
-  <!-- Conteúdo -->
-  <text x="25" y="78"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="16">
+
+  <!-- ========================= -->
+  <!-- TERMINAL CONTENT           -->
+  <!-- ========================= -->
+
+  <!-- whoami -->
+
+  <text
+    x="30"
+    y="82"
+    class="terminal command"
+    font-size="15">
     $ whoami
   </text>
 
-  <text x="25" y="108"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="16">
-    luiz
+  <text
+    x="30"
+    y="108"
+    class="terminal green"
+    font-size="15">
+    Luiz
   </text>
 
-  <text x="25" y="138"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="16">
-    $ 
+
+  <!-- aboutme -->
+
+  <text
+    x="30"
+    y="145"
+    class="terminal command"
+    font-size="15">
+    $ aboutme
   </text>
 
-  <!-- Cursor -->
-  <rect x="45" y="123" width="9" height="18" fill="#58a6ff">
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="1s"
-      repeatCount="indefinite"/>
-  </rect>
+  <text
+    x="30"
+    y="171"
+    class="terminal output"
+    font-size="14">
+    Cientista de Dados focando em agentes de IA,
+  </text>
+
+  <text
+    x="30"
+    y="194"
+    class="terminal output"
+    font-size="14">
+    Gen AI, LLMs, RAG e sistemas inteligentes.
+  </text>
+
+
+  <!-- stack -->
+
+  <text
+    x="30"
+    y="231"
+    class="terminal command"
+    font-size="15">
+    $ stack
+  </text>
+
+  <text
+    x="30"
+    y="257"
+    class="terminal cyan"
+    font-size="14">
+    Python • SQL • Java • PostgreSQL • Docker
+  </text>
+
+  <text
+    x="30"
+    y="280"
+    class="terminal cyan"
+    font-size="14">
+    LangChain • LangGraph • AWS • React • GenAI
+  </text>
+
+
+  <!-- interests -->
+
+  <text
+    x="30"
+    y="317"
+    class="terminal command"
+    font-size="15">
+    $ interests
+  </text>
+
+  <text
+    x="30"
+    y="343"
+    class="terminal output"
+    font-size="14">
+    AI
+  </text>
+
+  <text
+    x="60"
+    y="343"
+    class="terminal muted"
+    font-size="14">
+    •
+  </text>
+
+  <text
+    x="78"
+    y="343"
+    class="terminal output"
+    font-size="14">
+    Guitar
+  </text>
+
+  <text
+    x="135"
+    y="343"
+    class="terminal muted"
+    font-size="14">
+    •
+  </text>
+
+  <text
+    x="153"
+    y="343"
+    class="terminal output"
+    font-size="14">
+    Games
+  </text>
+
+  <text
+    x="215"
+    y="343"
+    class="terminal muted"
+    font-size="14">
+    •
+  </text>
+
+  <text
+    x="233"
+    y="343"
+    class="terminal output"
+    font-size="14">
+    Open Source
+  </text>
+
+
+  <!-- Final prompt -->
+
+  <text
+    x="30"
+    y="388"
+    class="terminal command"
+    font-size="15">
+    $ _
+  </text>
+
+  <!-- Animated cursor -->
+
+  <rect
+    x="50"
+    y="374"
+    width="9"
+    height="18"
+    fill="#58a6ff"
+    class="cursor"
+    filter="url(#glow)"
+  />
 
 </svg>
