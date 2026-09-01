@@ -99,7 +99,7 @@
   <circle cx="66" cy="22" r="6" fill="#27c93f"/>
 
   <text x="425" y="27" text-anchor="middle" class="terminal muted" font-size="13">
-    luiz@github: ~
+    rickluizms@github: ~
   </text>
 
 
@@ -149,13 +149,7 @@
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.05s" fill="freeze"/>
-    <text x="30" y="343" class="terminal output" font-size="14">AI</text>
-    <text x="60" y="343" class="terminal output" font-size="14">•</text>
-    <text x="78" y="343" class="terminal output" font-size="14">Guitar</text>
-    <text x="135" y="343" class="terminal output" font-size="14">•</text>
-    <text x="153" y="343" class="terminal output" font-size="14">Games</text>
-    <text x="215" y="343" class="terminal output" font-size="14">•</text>
-    <text x="233" y="343" class="terminal output" font-size="14">Open Source</text>
+    <text x="30" y="343" class="terminal output" font-size="14">AI • Guitar • Games • Open Source</text>
   </g>
 
 
