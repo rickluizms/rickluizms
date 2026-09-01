@@ -17,6 +17,8 @@
 
 Data Engineer focused on automation and AI/ML systems.
 
+<img src="./terminal.svg" alt="Terminal">
+
 ## Stack
 
 `Python` • `SQL` • `Spark` • `Kafka` • `Airflow` • `Docker`  
