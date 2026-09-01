@@ -8,10 +8,10 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&vCenter=true&width=500&lines==Eu+sou+o+Luiz;Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&vCenter=true&width=500&lines=Eu+sou+o+Luiz;Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&vCenter=true&width=500&lines==Eu+sou+o+Luiz;Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&vCenter=true&width=500&lines=Eu+sou+o+Luiz;Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python"
     alt="Typing SVG"
   />
 </picture>
