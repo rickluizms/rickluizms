@@ -1,20 +1,30 @@
-Olá, 
+# Olá 👋
 
-Eu sou [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python)](https://git.io/typing-svg)
+Eu sou
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=24292F&vCenter=true&width=500&lines=Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=24292F&vCenter=true&width=500&lines=Cientista+de+Dados;Engenheiro+de+IA;Desenvolvedor+Python"
+    alt="Typing SVG"
+  />
+</picture>
 
 Data Engineer focused on automation and AI/ML systems.
 
-**Stack**
+## Stack
 
-`Python` • `SQL` • `Spark` • `Kafka` • `Airflow` • `Docker`
-`MongoDB` • `PostgreSQL` • `FastAPI` • `Django` • `n8n` • `RAG`
+`Python` • `SQL` • `Spark` • `Kafka` • `Airflow` • `Docker`  
+`PostgreSQL` • `MongoDB` • `FastAPI` • `Django` • `n8n` • `RAG`
 
 ---
 
-**Contact**
+## Contact
 
-LinkedIn: [https://linkedin.com/in/rickluizms](https://linkedin.com/in/rickluizms)
-
-Portfolio: [https://rickluizms.site](https://rickluizms.site)
-
-Email: [rickluizms@gmail.com](mailto:rickluizms@gmail.com)
+[LinkedIn](https://linkedin.com/in/rickluizms) • [Portfolio](https://rickluizms.site) • [Email](mailto:rickluizms@gmail.com)
