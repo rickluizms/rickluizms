@@ -1,4 +1,4 @@
-# Olá 👋
+# Hello 👋
 
 <div align="center">
 <picture>
