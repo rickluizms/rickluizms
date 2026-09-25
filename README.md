@@ -27,6 +27,4 @@
 
 <br>
 
-## About Me
-
 <img src="./terminal.svg" alt="Terminal">
