@@ -18,7 +18,6 @@
 <div align="center">
 
 ## Contact
-
 [LinkedIn](https://linkedin.com/in/rickluizms) • [Portfolio](https://rickluizms.site) • [Email](mailto:rickluizms@gmail.com)
 
 ## About Me
